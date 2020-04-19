@@ -15,8 +15,9 @@ public class SeaCreature {
 
 	private String name;
 
-	SeaCreature(String name) {
-		this.name = name;
+SeaCreature(String name) {
+		this.name= name;
+
 	}
 
 	public String getName() {
