@@ -11,12 +11,26 @@ private String name;
 		this.color=color;
 		this.master=master;
 	}
-	String getname() {
+	String getName() {
 		return name;
 	}
-	String geteyes() {
+	int getEyes() {
 		return eyes;
-		
+	}
+	String getColor() {
+		return color;
+	}
+	String getMaster() {
+		return master;
+	}
+	void setName(String name) {
+		this.name = name;
+	}
+	void setColor(String color) {
+		this.color=color;
+	}
+	void setMaster(String master){
+		this.master=master;
 	}
 	}
 	
