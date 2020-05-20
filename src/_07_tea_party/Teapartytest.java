@@ -1,5 +1,5 @@
 package _07_tea_party;
-bbbbbbbbbbbbbbbbbbbbbb                          
+
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
